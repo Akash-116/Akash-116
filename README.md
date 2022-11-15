@@ -9,5 +9,5 @@
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: https://akash-116.github.io/
 - 😄 Pronouns: He / Him / (That guy)
-- ⚡ Fun fact: For writing my first blog, I debugged, typed and stayed up till 8 in the morning. I loved it!
+- ⚡ Fun fact: For writing [my first blog](https://akash-gillella.medium.com/guide-to-setup-archive-jaf-in-campus-placements-iitb-ac-in-5935c01b40e1), I debugged, typed and stayed up till 8 in the morning. I loved it!
 
